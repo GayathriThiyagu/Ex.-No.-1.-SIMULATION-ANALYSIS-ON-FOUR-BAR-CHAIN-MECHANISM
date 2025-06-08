@@ -1,7 +1,5 @@
 # Ex. No. 1 - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
-## DATE:
-
 ## AIM:
 
 ###   To determine & simulate the displacement & velocity analysis for the given four bar chain mechanism. 
@@ -60,8 +58,8 @@
 <br>
 <br>
 
-### Name: GAUTHAM KRISHNA S 
-### Register Number: 212223240036
+### Name: T. Gayathri
+### Register Number: 212223100007
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
